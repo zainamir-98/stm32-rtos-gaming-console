@@ -1,4 +1,4 @@
-# Real-Time Gaming Console on an STM32F767ZI using FreeRTOS
+# Real-Time Gaming Console using FreeRTOS
 
 ## Hardware
 
