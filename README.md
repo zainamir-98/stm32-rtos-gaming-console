@@ -1,4 +1,5 @@
 # GameRTOS: Real-Time Gaming Console using FreeRTOS
+*Pronunciation: gamer-toss*
 
 ## Hardware
 
