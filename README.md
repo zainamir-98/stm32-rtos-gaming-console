@@ -1,4 +1,4 @@
-# Real-Time Gaming Console using FreeRTOS
+# GameRTOS: Real-Time Gaming Console using FreeRTOS
 
 ## Hardware
 
